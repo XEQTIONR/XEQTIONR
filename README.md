@@ -1,5 +1,5 @@
 ### Hi there 👋
-![1.jpg](https://ishteharhussain.com/img/avatars/1.jpg)
+![github2.png](https://dglcore.com/uploads/images/github2.png)
 
 <!--
 **XEQTIONR/XEQTIONR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

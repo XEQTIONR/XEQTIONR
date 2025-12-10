@@ -1,5 +1,5 @@
-### Hi there 👋
-![github2.png](https://dglcore.com/uploads/images/github2.png)
+# Hi there 👋
+![https://dglcore.com/uploads/images/github2.png](https://media.licdn.com/dms/image/v2/D5616AQGVZDs9IGxUng/profile-displaybackgroundimage-shrink_350_1400/B56ZYAe1sPH0AY-/0/1743764813996?e=1767225600&v=beta&t=GE6DHWxWMmA6DZAGY19m2GRUAK6fnH56ojny4Wd3P1I)
 
 <!--
 **XEQTIONR/XEQTIONR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
